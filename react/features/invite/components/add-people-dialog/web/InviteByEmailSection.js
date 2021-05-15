@@ -134,7 +134,6 @@ function InviteByEmailSection({ inviteSubject, inviteText, t }: Props) {
                             <Icon src = { IconCopy } />
                         </div>
                     </Tooltip>
-                    {renderEmailIcons()}
                 </div>
             </div>
         </>
